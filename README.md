@@ -1,6 +1,7 @@
 # machine-learning-notes
 some personal notes
 
+- [Adaboost](./Adaboost.md)
 - [Linear Discriminant Analysis](./Linear_Discriminant_Analysis.md)
 - [Linear Regression](./Linear_Regression.md)
 - [Logistic Regression](./Logistic_Regression.md)
