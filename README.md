@@ -2,6 +2,7 @@
 some personal notes
 
 - [Adaboost](./Adaboost.md)
+- [Bias Variance Decomposition](./Bias_Variance_Decomposition.md)
 - [Linear Discriminant Analysis](./Linear_Discriminant_Analysis.md)
 - [Linear Regression](./Linear_Regression.md)
 - [Logistic Regression](./Logistic_Regression.md)
